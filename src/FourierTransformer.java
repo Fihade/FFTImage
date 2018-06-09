@@ -53,7 +53,7 @@ public class FourierTransformer  extends JFrame{
 
         frame.setSize(600, 500);
         frame.setTitle("ImageMenu");
-        frame.setName("hello my dongjing");
+        frame.setName("hello");
 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
