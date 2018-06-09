@@ -13,6 +13,7 @@ import javax.swing.JFrame;
 @SuppressWarnings("serial")
 public class FourierTransformer  extends JFrame{
     Image im;
+    int i;
     BufferedImage imageAuth = null;
     int iw;
     int ih;
